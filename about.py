@@ -5,3 +5,5 @@
 
 TEAM_NAME = "Ludoedy"
 MOTTO = "Вот такая ..... собачка"
+joke = 'ahahahahaha'
+Egor Kreed = 'lets go, suda blin'
