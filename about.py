@@ -5,3 +5,4 @@
 
 TEAM_NAME = "Ludoedy"
 MOTTO = "Вот такая ..... собачка"
+# beatiful motto
