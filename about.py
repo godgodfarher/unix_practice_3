@@ -5,5 +5,7 @@
 
 TEAM_NAME = "Ludoedy"
 MOTTO = "Вот такая ..... собачка"
+# beatiful motto
+# еще одна строка
 joke = 'ahahahahaha'
 Egor Kreed = 'lets go, suda blin'
